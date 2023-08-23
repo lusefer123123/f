@@ -1,0 +1,23 @@
+.pyapet {
+     width: 99%;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.tour {
+    width: 32%;
+    overflow: auto;
+    margin: 15px 10px;
+    float: left;
+    height: 500px;
+    border: 1px solid mintcream;
+    border-radius: 10px;
+    background-color: white;
+    text-align: center;
+    filter: drop-shadow(5px 5px 20px navajowhite); /*Так и не разобрался с этим*/
+}
+.wrapper {
+    height: 1px;
+}
+.pyapet3 {
+color: red;
+}
